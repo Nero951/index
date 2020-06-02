@@ -1,0 +1,5 @@
+﻿  learn.c
+c:\users\wade winston wilson\desktop\program\c\project2\project2\learn.c(152): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\wade winston wilson\desktop\program\c\project2\project2\learn.c(152): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\wade winston wilson\desktop\program\c\project2\project2\learn.c(153): warning C4047: “return”:“int”与“int (__cdecl *)(int *)”的间接级别不同
+  Project2.vcxproj -> C:\Users\Wade Winston Wilson\Desktop\Program\c\Project2\Debug\Project2.exe
