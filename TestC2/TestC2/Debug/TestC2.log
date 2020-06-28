@@ -1,0 +1,3 @@
+﻿  TestC2.c
+c:\users\wade winston wilson\source\repos\testc2\testc2\testc2.c(88): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  TestC2.vcxproj -> C:\Users\Wade Winston Wilson\source\repos\TestC2\Debug\TestC2.exe
